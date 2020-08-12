@@ -1,0 +1,45 @@
+[
+ {
+   "id":0,
+   "name":"MANGO PEOPLE T-SHIRT",
+   "price":"52.00",
+   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured1.jpg?raw=true"
+ },
+ {
+   "id":1,
+   "name":"MANGO PEOPLE T-SHIRT",
+   "price":"152.00",
+   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured2.jpg?raw=true"
+ },
+ {
+   "id":2,
+   "name":"MANGO PEOPLE T-SHIRT",
+   "price":"52.00",
+   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured3.jpg?raw=true"
+ },
+ {
+   "id":3,
+   "name":"MANGO PEOPLE T-SHIRT",
+   "price":"252.00",
+   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured4.jpg?raw=true"
+ },
+ {
+   "id":4,
+   "name":"MANGO PEOPLE T-SHIRT",
+   "price":"52.00",
+   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured5.jpg?raw=true"
+ },
+ {
+   "id":5,
+   "name":"MANGO PEOPLE T-SHIRT",
+   "price":"352.00",
+   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured6.jpg?raw=true"},
+ {"id":6,"name":"MANGO PEOPLE T-SHIRT","price":"52.00","img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured7.jpg?raw=true"
+ },
+ {
+   "id":7,
+   "name":"MANGO PEOPLE T-SHIRT",
+   "price":"452.00",
+   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured8.jpg?raw=true"
+ }
+]
