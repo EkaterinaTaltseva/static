@@ -3,12 +3,12 @@
    "id":1,
    "name":"MANGO PEOPLE T-SHIRT",
    "price":"152.00",
-   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured2.jpg?raw=true"
+   "img":"https://raw.githubusercontent.com/EkaterinaTaltseva/shop-img/master/Fetured2.jpg"
  },
  {
    "id":3,
    "name":"MANGO PEOPLE T-SHIRT",
    "price":"252.00",
-   "img":"https://github.com/EkaterinaTaltseva/shop-img/blob/master/Fetured4.jpg?raw=true"
+   "img":"https://raw.githubusercontent.com/EkaterinaTaltseva/shop-img/master/Fetured4.jpg"
  }
 ]
