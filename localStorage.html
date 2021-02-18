@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>test</title>
+</head>
+<body>
+<h1>Заголовок</h1>
+<hr>
+<a href="https://yandex.ru/" >ссылка</a>
+
+<script>
+	const myEl = document.querySelector('a');
+
+	myEl.addEventListener( "click" , () => {
+		//link
+		const aHref = myEl.href
+		myEl.href = 'https://www.google.com'
+		window.open(aHref, "WindowName", "width=600,height=400,resizable,scrollbars,status");
+
+		//localStorage
+		const raw = localStorage.getItem('counter-local')
+		let num = +raw
+		num++
+		localStorage.setItem('counter-local', num.toString())
+
+		//cookie
+		document.cookie = `counter-cookie=${num.toString()}; expires=Fri, 31 Dec 2021 23:59:59 GMT`
+	});
+
+
+</script>
+</body>
+</html>
